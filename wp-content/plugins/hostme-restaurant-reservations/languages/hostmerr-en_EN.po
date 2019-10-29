@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostme 1.0\n"
+"POT-Creation-Date: 2017-09-07 15:19+0200\n"
+"PO-Revision-Date: 2017-09-07 15:21+0200\n"
+"Last-Translator: Hostme\n"
+"Language-Team: Hostme\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: hostme-restaurant-reservations.php:48
+msgid "Hostme"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:51
+msgid "Hostme description"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:80
+msgid "Restaurant ID is missing"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:115
+msgid "I'm registered on Hostme"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:117
+#, php-format
+msgid ""
+"If you are not registered on <a target=\"_blank\" href=\"%s\">Hostme</a> "
+"please enter your restaurant details:"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:119
+#: hostme-restaurant-reservations.php:139
+msgid "your@email.com"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:122
+msgid "Restaurant Name"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:125
+msgid "Restaurant Address"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:131
+msgid "Continue"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:133
+msgid "Terms of Use"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:133
+msgid "Privacy Policy"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:137
+msgid "Enter your email below and pick a restaurant from the list."
+msgstr ""
+
+#: hostme-restaurant-reservations.php:145 include/ajax.php:180
+msgid "No restaurants found."
+msgstr ""
+
+#: hostme-restaurant-reservations.php:146
+msgid "Go back"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:152
+msgid "Current Restaurant:"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:157
+msgid "Widget layout:"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:159
+msgid "Vertical"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:160
+msgid "Horizontal"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:164
+msgid "Link to restaurant reservation page:"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:168
+msgid "Change Restaurant"
+msgstr ""
+
+#: hostme-restaurant-reservations.php:209
+msgid "Restaurant"
+msgstr ""
+
+#: include/ajax.php:27 include/ajax.php:112
+msgid "Wrong nonce!"
+msgstr ""
+
+#: include/ajax.php:46
+msgid "All fields are required."
+msgstr ""
+
+#: include/ajax.php:75
+msgid "API data not found."
+msgstr ""
+
+#: include/ajax.php:85
+msgid "Restaurant registered."
+msgstr ""
+
+#: include/ajax.php:125
+msgid "Please enter your email."
+msgstr ""
+
+#: include/ajax.php:135
+msgid "Email is not valid."
+msgstr ""
+
+#: include/ajax.php:149
+msgid "No restaurants data found."
+msgstr ""
+
+#: include/ajax.php:172
+msgid "Restaurants found."
+msgstr ""
+
+#: include/ajax.php:190
+msgid "There was an error with the API."
+msgstr ""

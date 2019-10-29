@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Add to Cart Button Custom Text\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-22 15:58+0000\n"
+"PO-Revision-Date: 2019-05-22 15:58+0000\n"
+"Last-Translator: kirazuel <enrique@enriquejros.com>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2.2-alpha-45374"
+
+#: options.php:31
+msgid "Add to Cart Button"
+msgstr "Botón Añadir al Carrito"
+
+#. Name of the plugin
+#: add-to-cart-custom-text.php:54
+msgid "Add to Cart Button Custom Text"
+msgstr "Add to Cart Button Custom Text"
+
+#: options.php:31
+msgid "Add to Cart Custom Text"
+msgstr "Add to Cart Custom Text"
+
+#: options.php:53
+msgid "Add to Cart Custom Text options"
+msgstr "Opciones de Add to Cart Custom Text"
+
+#. Description of the plugin
+msgid ""
+"Allows to customize the \"Add to Cart\" button text in WooCommerce by "
+"product type in both archive and product pages"
+msgstr ""
+"Permite personalizar el botón \"Añadir al carrito\" de WooCommerce por tipo "
+"de producto tanto en páginas de archivo como de producto"
+
+#: options.php:122
+msgid "Button text in archive pages"
+msgstr "Texto del botón en páginas de archivo"
+
+#: options.php:73
+msgid "Button text in single product pages"
+msgstr "Texto del botón en páginas de producto"
+
+#: options.php:124
+#, php-format
+msgid ""
+"Custom text for the %s button in archive pages (shop, category, tags...) by "
+"product type"
+msgstr ""
+"Texto personalizado para el botón %s en páginas de archivo (tienda, "
+"categoría, etiquetas...) por tipo de producto"
+
+#: options.php:75
+#, php-format
+msgid "Custom text for the %s button in single product pages by product type"
+msgstr ""
+"Texto personalizado para el botón %s en páginas de producto por tipo de "
+"producto"
+
+#. Author of the plugin
+msgid "Enrique J. Ros"
+msgstr "Enrique J. Ros"
+
+#. Author URI of the plugin
+msgid "https://www.enriquejros.com/"
+msgstr "https://www.enriquejros.com/"
+
+#. URI of the plugin
+msgid "https://www.enriquejros.com/plugins/"
+msgstr "https://www.enriquejros.com/plugins/"
+
+#: add-to-cart-custom-text.php:116
+#, php-format
+msgid "Thanks for using %s. Go to the settings page to configure the plugin."
+msgstr ""
+"Gracias por usar %s. Ve a la página de ajustes para configurar el plugin."
+
+#: add-to-cart-custom-text.php:99
+#, php-format
+msgid ""
+"The plugin %s needs WooCommerce to be active in order to work. Please, "
+"activate WooCommerce first."
+msgstr ""
+"El plugin %s necesita que WooCommerce esté activado para funcionar. Por "
+"favor, activa WooCommerce primero."
+
+#: add-to-cart-custom-text.php:76
+#, php-format
+msgid "You cannot clone instances of %s."
+msgstr "No puedes clonar instancias de %s."

@@ -1,0 +1,41 @@
+/* 
+    Created on : Sep 21, 2017, 8:17:27 AM
+    Author     : Llewellyn
+*/
+
+#iframecontainer {
+    width: 90%;
+    height: 100%;
+    position: fixed;
+    margin-top: 5%;
+    margin-left: 5%;
+    background: #FFF;
+    border: 1px solid #666;
+    border: 1px solid #555;
+    box-shadow: 2px 2px 40px #222;
+    z-index: 999999;
+    top: 0%;
+    left: 0%;
+}
+#myIframe {
+    width: 100%; 
+    height: 100%; 
+    position: absolute; 
+    border: none; 
+}
+@media (min-width:768px) {
+    #iframecontainer {
+        width: 70%;
+        height: 90%;
+        position: fixed;
+        margin-top: 2%;
+        margin-left: 5%;
+        background: #FFF;
+        border: 1px solid #666;
+        border: 1px solid #555;
+        box-shadow: 2px 2px 40px #222;
+        z-index: 999999;
+        top: 0%;
+        left: 10%;
+    }
+}

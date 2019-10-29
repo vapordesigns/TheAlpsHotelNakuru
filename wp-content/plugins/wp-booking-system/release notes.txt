@@ -1,0 +1,276 @@
+== Release notes ==
+= 4.3.0 =
+* Fixed: Admin form builder sorting issues when saving the form
+
+= 4.2.9 =
+* Fixed: Issue with auto-pending breaking the calendar availability
+
+= 4.2.8 =
+* Fixed: Double quotes in dates description would break the calendar
+
+= 4.2.7 =
+* Fixed: Issue with default pending legend item not being set if a user selects the end date of a date range scenario before the start date
+
+= 4.2.6 =
+* Fixed: Added version number to enqueued files from the front-end
+
+= 4.2.5 =
+* Fixed: JavaScript error in admin area when changing date availability
+
+= 4.2.4 =
+* Fixed: Added version number to all enqueued files
+
+= 4.2.3 =
+* Fixed empty array issue on front-end
+
+= 4.2.2 =
+* Fixed incorect decoding of the legend when editing bookings
+* Fixed legend save on some configurations
+
+= 4.2 =
+* Changed dropdown to show 6 months in the past
+
+= 4.1.9 =
+* Added extra filter when changing legend of a calendar
+
+= 4.1.8 =
+* Added extra filter when saving default legend single quote "'" breaked JSON
+
+= 4.1.7 =
+* Added Bulgarian language support and translations
+
+= 4.1.6 = @ 18/08/2017
+* Improvement added multiple classes to form elements so it can be styled better
+
+= 4.1.5 = @ 17/08/2017
+* Fixed Czech translation not displaying issue
+* Added Serbian translations of month names and day names
+* Improved notification notes timing with page reload timing
+
+= 4.1.4 = @ 16/08/2017
+* Improvment/Fix sender name in some situations was not set
+* Fix for sending confirmation email on manually accepting bookings
+
+= 4.1.3 = @ 31/07/2017
+* Improvment: improved user management
+
+= 4.1.1 = @ 20/07/2017
+* Feature: now you can add required one option checkbox (terms & conditions)
+
+
+= 4.1.0 = @ 07/07/2017
+* Fixed reCaptcha callback (sometimes was not called)
+* Backup/restore file extension issue
+* New on form submission scrolling on the top of the form so the errors are clearly visible
+* Fixed form edit auto reply "Include details of the submitted booking" checkbox behavior
+* Prevention of double click/submit on form/calendar creation
+
+= 4.0.1 = @ 16/06/2017
+* Fixed reCaptcha conflict with other plugin(s)
+* Improved character encoding
+* New feature selection type of 8 days
+
+= 4.0 = @ 09/06/2017
+* Fixed Mod_Security update issues
+* Improved character encoding
+* Everything is translatable in email(s)
+* Added tooltip change direction if not enough space
+
+= 3.7.3 = @ 16/05/2017
+* Fixed Mod_Security SQL injection filter conflict
+* Fixed Dropdown styling in Dashboard
+* Fixed CSS box-sizing issue when zoom-in or zoom-out
+* Added ability to translate "Email subject message", "A new booking was made via your website!" & "Captcha verification has failed."
+
+= 3.7.2 = @ 11/05/2017
+* Fixed multiple selection not remaining selected when changing months
+* Minor CSS fixes on multiple selection type
+* Settings to translate reCaptcha failed message
+
+= 3.7.1 = @ 28/04/2017
+* Fixed tooltip conflict on front-end
+* Fixed conflict with other plugins *maybe* same javascript functions
+* Added posibility to react on *pending* booking deletion
+* Minor CSS tweaks
+
+= 3.7 = @ 24/04/2017
+* Added filters to sanitize user input and prevent SQL injections
+
+= 3.6 = @ 07/04/2017
+* Added jump functionality (jump displayed months when next/prev or dropdown select)
+* Added selection type "week" enables entire week selection/booking
+* Added selection type "7 days" enables to book 7 days from start date
+* Added maximum bookable days option
+* Added translation to Admin Confirmation email (when Accepting Bookings)
+
+= 3.5.2 = @ 10/03/2017
+* Added user compatibility check for navigation
+* Added counter functionality by user assesment
+* Fixed Backup/Restore visibility issue
+
+= 3.5.1 = @ 03/03/2017
+* Added user compatibility check for navigation
+* Added counter functionality by user assesment
+* Fixed Backup/Restore visibility issue
+
+= 3.5 = @ 02/03/2017
+* Added the functionality to print upcoming bookings
+* Added Export functionality
+* Added Import functionality
+* Added footer message to rate the plugin
+* Changed on click event to on mouseenter event for the highlighted bookable days
+
+= 3.4.7 = @ 20/02/2017
+* Fixed translation for the Admin Notification Email
+* Fixed reCaptcha error in JavaScript
+
+= 3.4.6 = @ 27/10/2016
+* Fixed conflict with other plugins
+
+= 3.4.5 = @ 24/10/2016
+* Fixed JSON problems (saving)
+
+= 3.4.4 = @ 10/10/2016
+* Removed unwanted notices on settings page
+* Fixed small issue with tooltips
+
+= 3.4.3 = @ 10/6/2016
+* Improved Slovenian translations
+
+= 3.4.2 = @ 14/4/2016
+* Fixed iCal Sync issues
+
+= 3.4.1 = @ 12/4/2016
+* Replaced random_int by a more common function.
+
+= 3.4 = @ 11/4/2016
+* Hashed the calendar ID for syncing purposes.
+* Fixed: Multilpe instances of Captcha not working.
+
+= 3.3 =
+* Improved compatibility with PHP7.
+* Added the booking details in the confirmation email when accepting a booking.
+
+= 3.2 =
+* Added reCaptcha: If you are using the Auto-Reply feature, we strongly recommend enabling reCaptcha in the plugins settings page to prevent spammers from abusing the plugin, otherwise they could use the plugin as spam bot.
+* Added nonce for extra security.
+
+= 3.1 =
+* Small design tweaks.
+
+= 3.0.9 =
+* Restricted access to default legend and settings for non-admin users.
+* Made the dropdown arrow retina ready.
+
+= 3.0.8 =
+* Fixed bug when accepting bookings.
+
+= 3.0.7 =
+* Fixed iCal sync.
+
+= 3.0.6 =
+* Fixed a bug in quick edit.
+* Fixed Chinese implementation.
+* Changed iCal to sync only future dates.
+* Added "Show Dropdown" option to shortcode and widget.
+* Added retina navigation.
+
+= 3.0.5 =
+* Added chinese translation.
+
+= 3.0.5 =
+* Added chinese translation.
+
+= 3.0.4 =
+* Deleted the Edit and Delete links from the Sync page.
+
+= 3.0.3 =
+* Bug: Couldn't make a booking after changing 3 or 4 months.
+* Updated iCalendar dates.
+
+= 3.0.3 =
+* Bug: Couldn't make a booking after changing 3 or 4 months.
+* Updated iCalendar dates.
+
+= 3.0.2 =
+* Added phrases to 'General translations'.
+
+= 3.0.1 =
+* Improved the iCal sync feed
+* Added extra phrases to Settings > General Translations.
+* Legend items, line and form can now use full width.
+
+= 3.0 =
+* You can now sync your calendar to other websites.
+* Added a new setting for legend items: Sync as Booked.
+* Added the possibility to send an additional message when a booking is accepted or deleted.
+* Updated and fixed some translations.
+* Updated the admin panel of the plugin and made it responsive.
+* Form: Field options can now be translated.
+* Forms: removed the sender address from Auto Reply and created a new section with sender name and sender email, which is used in more places.
+* Front-end: when clicking on a date and moving the cursor outside the calendar, the date is automatically selected.
+* Front-end: you can select the position of the form to be below or besides the calendar. On small widths, the form drops below the calendar.
+
+= 2.36 =
+* Fixed the flag of Catalonia.
+
+= 2.35 =
+* Fixed sender name in auto reply.
+
+= 2.34 =
+* Added the option to require a minimum number of days to be booked.
+
+= 2.33 =
+* Small tweak to support PHP 7.
+
+= 2.32 =
+* Fixed a problem with slashes.
+* If you reply to a booking it will now reply to the users email address.
+
+= 2.31 =
+* Fixed another problem with QUOTES and DOUBLEQUOTES.
+
+= 2.30 =
+* Fixed a problem with QUOTES and DOUBLEQUOTES.
+
+= 2.29 =
+* Fixed a QUOTE problem in the form builder.
+
+= 2.28 =
+* Added auto-reply functionality.
+
+= 2.27 =
+* Fixed a problem with form fields which were being deleted in rare cases.
+
+= 2.26 =
+* Fixed W3C Markup Validation errors.
+* Added a tracking code textarea to the form settings.
+
+= 2.25 =
+* Updated PO file.
+
+= 2.24 =
+* Updated PO file.
+
+= 2.23 =
+* Decode booking details before saving.
+* Updated PO file.
+
+= 2.22 =
+* Added the possibility to translate feedback messages from the admin panel.
+* Added the possibility to only display the calendar without a form.
+* Added the option to show a red indicator when a tooltip is present.
+* Added 'Booking Details' to the quick edit box.
+
+= 2.21 =
+* Fixed a bug where a notification could still exist for a deleted calendar.
+
+= 2.20 =
+* Only load JavaScript and CSS of the plugin on the front-end when a calendar is present.
+
+= 2.19 =
+* Added 'Show week number' functionality.
+* Added 'Auto-Pending' functionality.
+
+= 2.18 =
+* Fixed long legend item title glitch in admin panel.

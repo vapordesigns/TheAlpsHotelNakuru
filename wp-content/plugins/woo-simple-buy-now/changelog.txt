@@ -1,0 +1,31 @@
+== Changelog ==
+= 2.0.0 – 2019-01-28 =
+* Feature - Customize button.
+* Fix – Compatible with WooCommerce add-ons.
+
+= 1.0.7 – 2018-11-02 =
+* Add – Add button positions.
+* Add – Support a shortcode for developer.
+
+= 1.0.6 - 2018-09-10 =
+* Fix - Variable product when selected.
+* Add - Add the loading icon when clicked.
+
+= 1.0.5 - 2018-07-28 =
+* Feature - Add redirect setttings (use pop-up or redirect to the checkout page).
+
+= 1.0.4 - 2018-03-17 =
+* Fix - Checkout java scripts
+
+= 1.0.3 - 2017-10-05 =
+* Dev - Add PHP hook
+
+= 1.0.2 - 2017-10-03 =
+* Dev - Add JS hook
+
+= 1.0.1 - 2017-10-03 =
+* Feature - Reset Cart before Buy Now.
+* Feature - Remove Quantity input.
+
+= 1.0.0 - 2017-10-02 =
+* Feature - Add WooCommerce Settings.

@@ -1,0 +1,200 @@
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* VERSION: 1.2.36
+* STEP-1 START @ 12:03:14
+* NOTICE: Do NOT post this data to public sites or forums
+********************************************************************************
+PHP VERSION:	5.6.30 | SAPI: cgi-fcgi
+PHP TIME LIMIT:	[0] time limit restriction disabled
+PHP MEMORY:	2048M | SUHOSIN: disabled
+SERVER:		Apache
+DOC ROOT:	/home/thealpsh/public_html
+DOC ROOT 755:	true
+LOG FILE 644:	true
+REQUEST URL:	http://www.thealpshotelnakuru.com/installer.php
+SAFE MODE :	0
+--------------------------------------
+ARCHIVE EXTRACTION
+--------------------------------------
+NAME:	20180509_thealpshotelnakuru_872c5b89323ccd424948180509120006_archive.zip
+SIZE:	1.23MB
+ZIP:	Enabled (ZipArchive Support)
+
+** PACKAGE EXTRACTION IS IN MANUAL MODE ** 
+
+
+WEB SERVER CONFIGURATION FILE RESET:
+- Backup of .htaccess/web.config made to *.180509120314.orig
+- Reset of .htaccess/web.config files
+
+STEP-1 COMPLETE @ 12:03:14 - RUNTIME: 0.0009 sec.
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-2 START @ 12:07:19
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+
+INSTALLER ERROR:
+Unable to read the database.sql file from the archive.  Please check these items: 
+1. Validate permissions and/or group-owner rights on these items: 
+ - File: database.sql 
+ - Directory: [/home/thealpsh/public_html] 
+see: https://snapcreek.com/duplicator/docs/faqs-tech#faq-trouble-055-q 
+2. Validate the database.sql file exists and is in the root of the archive.zip file 
+see: https://snapcreek.com/duplicator/docs/faqs-tech#faq-installer-020-q 
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-2 START @ 12:10:35
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+
+INSTALLER ERROR:
+Unable to read the database.sql file from the archive.  Please check these items: 
+1. Validate permissions and/or group-owner rights on these items: 
+ - File: database.sql 
+ - Directory: [/home/thealpsh/public_html] 
+see: https://snapcreek.com/duplicator/docs/faqs-tech#faq-trouble-055-q 
+2. Validate the database.sql file exists and is in the root of the archive.zip file 
+see: https://snapcreek.com/duplicator/docs/faqs-tech#faq-installer-020-q 
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-2 START @ 12:14:59
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+--------------------------------------
+DATABASE ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.5.51 -- Build Server: 5.5.51
+FILE SIZE:	database.sql (11.76MB) - installer-data.sql (11.76MB)
+TIMEOUT:	5000
+MAXPACK:	16777216
+SQLMODE:	NOT_SET
+NEW SQL FILE:	[/home/thealpsh/public_html/installer-data.sql]
+COLLATE RESET:	On
+
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+ERRORS FOUND:	0
+TABLES DROPPED:	0
+QUERIES RAN:	222
+
+wp_bs_bookings: (1)
+wp_bs_calendars: (1)
+wp_bs_forms: (1)
+wp_commentmeta: (0)
+wp_comments: (1)
+wp_duplicator_packages: (2)
+wp_frm_fields: (48)
+wp_frm_forms: (10)
+wp_frm_item_metas: (0)
+wp_frm_items: (0)
+wp_links: (0)
+wp_masterslider_options: (3)
+wp_masterslider_sliders: (0)
+wp_options: (621)
+wp_postmeta: (2707)
+wp_posts: (529)
+wp_term_relationships: (67)
+wp_term_taxonomy: (21)
+wp_termmeta: (0)
+wp_terms: (21)
+wp_usermeta: (56)
+wp_users: (2)
+
+Removed '258' cache/transient rows
+
+CREATE/INSTALL RUNTIME: 1.2780 sec.
+STEP-2 COMPLETE @ 12:15:00 - RUNTIME: 1.3863 sec.
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-3 START @ 12:15:53
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	latin1
+CHARSET CLIENT:	utf8
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+wp_bs_bookings~ (1)
+wp_bs_calendars~ (1)
+wp_bs_forms~ (1)
+wp_commentmeta^ (0)
+wp_comments~ (1)
+wp_duplicator_packages^ (0)
+wp_frm_fields~ (48)
+wp_frm_forms~ (10)
+wp_frm_item_metas^ (0)
+wp_frm_items^ (0)
+wp_links^ (0)
+wp_masterslider_options~ (3)
+wp_masterslider_sliders^ (0)
+wp_options~ (362)
+wp_postmeta~ (2707)
+wp_posts~ (529)
+wp_term_relationships~ (67)
+wp_term_taxonomy~ (21)
+wp_termmeta^ (0)
+wp_terms~ (21)
+wp_usermeta~ (56)
+wp_users~ (2)
+--------------------------------------
+Search1:	'/home/thealpsh/new.thealpshotelnakuru.com' 
+Change1:	'/home/thealpsh/public_html' 
+Search2:	'\/home\/thealpsh\/new.thealpshotelnakuru.com' 
+Change2:	'\/home\/thealpsh\/public_html' 
+Search3:	'%2Fhome%2Fthealpsh%2Fnew.thealpshotelnakuru.com%2F' 
+Change3:	'%2Fhome%2Fthealpsh%2Fpublic_html%2F' 
+Search4:	'\home\thealpsh\new.thealpshotelnakuru.com' 
+Change4:	'/home/thealpsh/public_html' 
+Search5:	'//new.thealpshotelnakuru.com' 
+Change5:	'//www.thealpshotelnakuru.com' 
+Search6:	'\/\/new.thealpshotelnakuru.com' 
+Change6:	'\/\/www.thealpshotelnakuru.com' 
+Search7:	'%2F%2Fnew.thealpshotelnakuru.com' 
+Change7:	'%2F%2Fwww.thealpshotelnakuru.com' 
+SCANNED:	Tables:22 	|	 Rows:3830 	|	 Cells:25839 
+UPDATED:	Tables:1 	|	 Rows:692 	|	 Cells:947 
+ERRORS:		0 
+RUNTIME:	1.357200 sec
+
+====================================
+CONFIGURATION FILE UPDATES:
+====================================
+
+UPDATED WP-CONFIG: /wp-config.php' (if present)
+
+WEB SERVER CONFIGURATION FILE BASIC SETUP:
+- Preparing .htaccess file with basic setup.
+Basic .htaccess file edit complete.  If using IIS web.config this process will need to be done manually.
+
+====================================
+GENERAL UPDATES & CLEANUP:
+====================================
+
+- Created directory wp-snapshots
+- Created file wp-snapshots/index.php
+
+====================================
+NOTICES
+====================================
+
+NOTICE: The wp-config.php has the following values set [WPCACHEHOME]. 
+Please validate these values are correct in your wp-config.php file.  See the codex link for more details: https://codex.wordpress.org/Editing_wp-config.php
+
+STEP 3 COMPLETE @ 12:15:54 - RUNTIME: 1.3696 sec.
+
+

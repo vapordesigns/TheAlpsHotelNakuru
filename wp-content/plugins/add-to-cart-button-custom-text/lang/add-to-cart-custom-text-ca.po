@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-20 12:49+0100\n"
+"PO-Revision-Date: 2016-09-02 21:36+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.9\n"
+"Last-Translator: JuanKa Díaz <juanka@jdevelopia.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ca\n"
+
+#: add-to-cart-custom-text.php:207
+msgid "</em> button in archive pages (shop, category, tags...) by product type"
+msgstr ""
+"</em> butó en la pàgina d´arxiu (tenda, categoria, etiquetes…) per tipus de "
+"producte"
+
+#: add-to-cart-custom-text.php:170
+msgid "</em> button in single product pages by product type"
+msgstr "</em> butó en la pàgina individual de producte per tipus de producte"
+
+#: add-to-cart-custom-text.php:162
+msgid "Add to Cart Custom Text options"
+msgstr "Opcions de text personal·litzat de Add to Cart"
+
+#: add-to-cart-custom-text.php:170 add-to-cart-custom-text.php:207
+msgid "Add to cart"
+msgstr "Afegeix a la cistella"
+
+#: add-to-cart-custom-text.php:196 add-to-cart-custom-text.php:232
+msgid "Bookable product"
+msgstr "Producte reservable"
+
+#: add-to-cart-custom-text.php:206
+msgid "Button text in archive pages"
+msgstr "Text del butó en les pàgines d´arxiu"
+
+#: add-to-cart-custom-text.php:169
+msgid "Button text in single product pages"
+msgstr "Text del butó en les pàgines simples de productes"
+
+#: add-to-cart-custom-text.php:170 add-to-cart-custom-text.php:207
+msgid "Custom text for the <em>"
+msgstr "Text personal·litzat per <em>"
+
+#: add-to-cart-custom-text.php:179 add-to-cart-custom-text.php:215
+msgid "External/Affiliate product"
+msgstr "Producte Extern/Afiliat"
+
+#: add-to-cart-custom-text.php:189 add-to-cart-custom-text.php:225
+msgid "Grouped product"
+msgstr "Producte agrupat"
+
+#: add-to-cart-custom-text.php:257
+msgid "Settings"
+msgstr "Opcions"
+
+#: add-to-cart-custom-text.php:174 add-to-cart-custom-text.php:210
+msgid "Simple product"
+msgstr "Producte simple"
+
+#: add-to-cart-custom-text.php:153
+msgid ""
+"This plugin has no sense without WooCommerce. Please, <a href=plugins."
+"php>activate WooCommerce</a> first."
+msgstr ""
+"Aquesta Extensió no té sentie sense WooCommerce. Si us plau, <a href=plugins."
+"php>activar WooCommerce</a> primer."
+
+#: add-to-cart-custom-text.php:184 add-to-cart-custom-text.php:220
+msgid "Variable product"
+msgstr "Producte variable"
+
+#: add-to-cart-custom-text.php:258
+msgid "Visit me"
+msgstr "Visitar-me"
+
+#: add-to-cart-custom-text.php:156
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tens prou permisos per accedir a aquesta pàgina."
